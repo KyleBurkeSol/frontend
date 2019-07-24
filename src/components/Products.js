@@ -1,5 +1,13 @@
 import React from 'react';
 
-export default function Builder() {
-	return <p>products</p>
+export default class Products extends React.Component {
+	constructor(props) {
+		super(props);
+
+		
+	}
+	
+	render() {
+		return <p>products</p>
+	}
 }

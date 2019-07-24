@@ -1,5 +1,5 @@
 import React from 'react';
 
-export default function Builder() {
+export default function Home() {
 	return <p>home</p>
 }
