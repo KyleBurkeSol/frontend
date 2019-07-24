@@ -4,7 +4,13 @@ export default class Products extends React.Component {
 	constructor(props) {
 		super(props);
 
-		
+
+	}
+
+	componentDidMount() {
+		//get product param
+		//fetch products
+		//render correct table passing it all information
 	}
 	
 	render() {
